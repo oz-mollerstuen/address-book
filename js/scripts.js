@@ -56,5 +56,3 @@ function handleFormSubmission(event) {
 window.addEventListener("load", function () {
     document.querySelector("form#new-contact").addEventListener("submit", handleFormSubmission);
 });
-
-//---------------
